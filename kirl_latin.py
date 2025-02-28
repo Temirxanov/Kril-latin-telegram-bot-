@@ -5,7 +5,7 @@ import transliterate
 
 # Bot tokeningizni shu yerga kiriting
 
-TOKEN = "7533584256:AAH23_uxOLtCzsY6Ljm1Ujz4_CHeoiisg8A"
+TOKEN = "Bul jerge tokin jaziladi"
 
 #Bot va Dispatcher obyektlarini yaratamiz
 
